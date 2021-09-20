@@ -1,0 +1,16 @@
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\Practica5.csproj.AssemblyReference.cache
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\Practica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\Practica5.AssemblyInfoInputs.cache
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\Practica5.AssemblyInfo.cs
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\bin\Debug\net5.0\Practica5.exe
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\bin\Debug\net5.0\Practica5.deps.json
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\bin\Debug\net5.0\Practica5.runtimeconfig.json
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\bin\Debug\net5.0\Practica5.runtimeconfig.dev.json
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\bin\Debug\net5.0\Practica5.dll
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\bin\Debug\net5.0\ref\Practica5.dll
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\bin\Debug\net5.0\Practica5.pdb
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\Practica5.dll
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\ref\Practica5.dll
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\Practica5.pdb
+C:\Users\Luis Aneuris\source\repos\Practica5\Practica5\obj\Debug\net5.0\Practica5.genruntimeconfig.cache
