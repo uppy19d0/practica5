@@ -12,6 +12,20 @@ namespace Practica5
         public List<Productos> ProductosFiltrados { get; set; }
         public List<Categorias> CategoriasProductosRegistrados { get; set; }
 
+
+
+
+        static void Main(string[] args)
+        {
+            Program program = new Program();
+
+            program.ProductosCategorias();
+            program.firstStep();
+            program.secondStep();
+            program.thirdStep();
+
+        }
+
         public void firstStep()
         {
 
@@ -54,18 +68,8 @@ namespace Practica5
                 Console.WriteLine("Los nombres de las categorías de los productos registrado :" + categorias.nombre);
             }
         }
-        Productos productos = new Productos();
 
-        static void Main(string[] args)
-        {
-            Program program = new Program();
-
-            program.ProductosCategorias();
-            program.firstStep();
-            program.secondStep();
-            program.thirdStep();
-
-        }
+     
 
         public void ProductosCategorias()
         {
